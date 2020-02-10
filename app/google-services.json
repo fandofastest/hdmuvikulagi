@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "405090894171",
+    "firebase_url": "https://hdmovies-c37a9.firebaseio.com",
+    "project_id": "hdmovies-c37a9",
+    "storage_bucket": "hdmovies-c37a9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:405090894171:android:63c7ec93c6c38981cb5a7e",
+        "android_client_info": {
+          "package_name": "com.indoxxi.hdmovies"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "405090894171-t170aa6i3r2j6sjrln1o5o7h3r274qkn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCq_53PD-mfIGFjvIRm0ghgzizrJWG6JwU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "405090894171-t170aa6i3r2j6sjrln1o5o7h3r274qkn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
